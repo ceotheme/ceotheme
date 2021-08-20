@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*fontface*/
+
+@font-face {
+  font-family: "ceoziti";
+  src: url(./ceoziti.woff2) format("woff2"),
+       url(./ceoziti.woff) format("woff"),
+       url(./ceoziti.ttf) format("truetype"),
+       url(./ceoziti.eot) format("embedded-opentype"),
+       url(./ceoziti.svg) format("svg");
+	   
+}
